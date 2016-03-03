@@ -1,0 +1,70 @@
+[02/02/16 09:20:46] Cajero_1 ha entrado a trabajar
+[02/02/16 09:20:46] Cajero_3 ha entrado a trabajar
+[02/02/16 09:20:46] El Reponedor entra a trabajar. 
+[02/02/16 09:20:46] Cajero_2 ha entrado a trabajar
+[02/02/16 09:21:09] EL Cliente_1 se pone a la cola
+[02/02/16 09:21:09] El Cajero_3 comienza a atender al Cliente_1 
+[02/02/16 09:21:09] El Cliente_1 atendido por Cajero_3 tiene algun problema y necestia al reponedor. 
+[02/02/16 09:21:12] EL Cliente_2 se pone a la cola
+[02/02/16 09:21:12] El Cajero_2 comienza a atender al Cliente_2 
+[02/02/16 09:21:12] EL Cliente_3 se pone a la cola
+[02/02/16 09:21:13] EL Cliente_4 se pone a la cola
+[02/02/16 09:21:13] El Reponedor acaba la consulta que le habian asignado. 
+[02/02/16 09:21:13] El Cliente_1, antendido por el Cajero_3 ha terminado de consultar al reponedor. 
+[02/02/16 09:21:13] El Cajero_1 comienza a atender al Cliente_3 
+[02/02/16 09:21:13] El Cajero_1 ha terminado de antender al Cliente_3, precio de la compra: 39$. 
+[02/02/16 09:21:14] EL Cliente_5 se pone a la cola
+[02/02/16 09:21:14] El Cajero_3 ha terminado de antender al Cliente_1, precio de la compra: 13$. 
+[02/02/16 09:21:14] El Cajero_2 ha terminado de antender al Cliente_2, precio de la compra: 18$. 
+[02/02/16 09:21:14] El Cajero_1 comienza a atender al Cliente_4 
+[02/02/16 09:21:15] El Cajero_3 comienza a atender al Cliente_5 
+[02/02/16 09:21:15] El Cajero_1 ha terminado de antender al Cliente_4, precio de la compra: 2$. 
+[02/02/16 09:21:15] EL Cliente_6 se pone a la cola
+[02/02/16 09:21:16] EL Cliente_7 se pone a la cola
+[02/02/16 09:21:16] El Reponedor acaba la consulta que le habian asignado. 
+[02/02/16 09:21:16] El Cajero_2 comienza a atender al Cliente_6 
+[02/02/16 09:21:16] El Cajero_1 comienza a atender al Cliente_7 
+[02/02/16 09:21:17] EL Cliente_8 se pone a la cola
+[02/02/16 09:21:17] El Cajero_2 ha terminado de antender al Cliente_6, precio de la compra: 76$. 
+[02/02/16 09:21:17] El Cajero_1 ha terminado de antender al Cliente_7, precio de la compra: 44$. 
+[02/02/16 09:21:18] EL Cliente_9 se pone a la cola
+[02/02/16 09:21:18] El Cajero_3 ha terminado de antender al Cliente_5, precio de la compra: 76$. 
+[02/02/16 09:21:18] El Cajero_2 comienza a atender al Cliente_8 
+[02/02/16 09:21:18] El Cliente_8 atendido por Cajero_2 tiene algun problema y necestia al reponedor. 
+[02/02/16 09:21:18] El Cajero_1 comienza a atender al Cliente_9 
+[02/02/16 09:21:19] EL Cliente_10 se pone a la cola
+[02/02/16 09:21:19] El Cajero_3 comienza a atender al Cliente_10 
+[02/02/16 09:21:19] El Cajero_1 ha terminado de antender al Cliente_9, precio de la compra: 86$. 
+[02/02/16 09:21:22] El Reponedor acaba la consulta que le habian asignado. 
+[02/02/16 09:21:22] El Cliente_8, antendido por el Cajero_2 ha terminado de consultar al reponedor. 
+[02/02/16 09:21:23] El Cajero_2 ha terminado de antender al Cliente_8, precio de la compra: 24$. 
+[02/02/16 09:21:24] El Cajero_3 ha terminado de antender al Cliente_10, precio de la compra: 79$. 
+[02/02/16 09:21:26] El Cajero_1 ha atendido a un total de:4 Clientes 
+[02/02/16 09:21:26] El Cajero_2 ha atendido a un total de:3 Clientes 
+[02/02/16 09:21:26] El Cajero_3 ha atendido a un total de:3 Clientes 
+[02/02/16 09:21:26] Se ha atendido a un total de 10 Clientes 
+[02/02/16 09:21:26] 
+---MEMORY MAP--- 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30250 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30260 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30270 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30280 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30290 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b302a0 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b302b0 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b302c0 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b302d0 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b302e0 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b302f0 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30300 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30310 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30320 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30330 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30340 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30350 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30360 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30370 
+[02/02/16 09:21:26] 	id:0 	tid:0 	atendido:0, 	direcion_memoria:0x1b30380 
+[02/02/16 09:21:26] 	id:1 	tid:-201939200 	 clientes atendidos:4	direcion_memoria:0x1b303a0 
+[02/02/16 09:21:26] 	id:2 	tid:-210331904 	 clientes atendidos:3	direcion_memoria:0x1b303b0 
+[02/02/16 09:21:26] 	id:3 	tid:-218724608 	 clientes atendidos:3	direcion_memoria:0x1b303c0 
